@@ -1,6 +1,6 @@
-# aula02bd
+# aula02bd - Trabalho
 
-Aula de Flutter com integração ao banco de dados
+Aula de Flutter com integração ao banco de dados -- Refatoração com conceito de Widgets
 
 ## Getting Started
 
